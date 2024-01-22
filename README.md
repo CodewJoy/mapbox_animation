@@ -1,9 +1,9 @@
-Creating Map Animation with Mapbox
+# Creating Map Animation with Mapbox
 
 [Demo Link](https://codewjoy.github.io/mapbox_animation/)
 ## HTML Structure
-- <head>: Contains metadata for the page, importing the Mapbox GL JS library, and other styles.
-- <body>: Contains the main content, including the map and console elements.
+- `<head>`: Contains metadata for the page, importing the Mapbox GL JS library, and other styles.
+- `<body>`: Contains the main content, including the map and console elements.
 - `<div id="map">`: Area to accommodate the Mapbox map.
 - `<div id="console"`>: Area to display collision data and control elements.
 
