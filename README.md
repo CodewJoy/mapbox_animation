@@ -2,7 +2,7 @@
 
 [Demo Link](https://codewjoy.github.io/mapbox_animation/)
 
-![map_animation_3](https://hackmd.io/_uploads/HJUT9rW5p.gif)
+![map_animation](img/dynamic_map.gif)
 
 ## HTML Structure
 - `<head>`: Contains metadata for the page, importing the Mapbox GL JS library, and other styles.
